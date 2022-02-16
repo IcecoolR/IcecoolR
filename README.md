@@ -1,7 +1,8 @@
 # Hi, I’m Richard ([@IcecoolR](https://github.com/IcecoolR)) 👋
 
 I'm a first class Software Engineering graduate from De Montfort University. <br>
-I've publish my own app on Google Play called [Take That 1st Step](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep).
+I've publish my own app on Google Play called [Take That 1st Step](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep). <br>
+Check out my [portfolio](https://icecoolr.github.io/Portfolio/) for more information.
 
 ## Skills
 - Unity with C#
