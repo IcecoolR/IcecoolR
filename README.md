@@ -12,7 +12,8 @@ Check out my [portfolio](https://icecoolr.github.io/Portfolio/) for more informa
 - Simple understanding of HTML5, JavaScript & CSS. Check out [Where Next?](https://icecoolr.github.io/Where-Next/), a university project inspiring people to travel and hosted via GitHub Pages
 
 ## Interests
-- Currently training for the 2022 London Marathon.
+- I've completed multiple runs for charity, with the biggest being the Richmond Runfest Marathon.
+- Computer building.
 - My friends and I run the [Pokémon GO Tower Bridge Discord](https://discord.com/invite/fVzzsMd).
 - Challenge me at chess on [chess.com](https://www.chess.com/member/icecoolr).
 
