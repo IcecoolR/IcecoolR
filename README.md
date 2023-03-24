@@ -21,7 +21,7 @@ I'm a first class Software Engineering graduate living in South East London. Che
 - Portfolio: [Code](https://github.com/IcecoolR/Portfolio) & [Live](https://icecoolr.github.io/Portfolio/)
 - Take That 1st Step: [Code](https://github.com/IcecoolR/Take-That-1st-Step) & [Live](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep)
 - Daily Inspiration: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Daily-Quotes/)
-- Where Next?: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Where-Next/)
+- Where Next?: [Code](https://github.com/IcecoolR/Where-Next) & [Live](https://icecoolr.github.io/Where-Next/)
 
 ## Find me on
 - [Linkedin](https://www.linkedin.com/in/richard-woolley-63a3311b2/)
