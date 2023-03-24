@@ -1,27 +1,31 @@
 # Hi, I’m Richard ([@IcecoolR](https://github.com/IcecoolR)) 👋
 
-I'm a first class Software Engineering graduate from De Montfort University. <br>
-I've publish my own app on Google Play called [Take That 1st Step](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep). <br>
-Check out my [portfolio](https://icecoolr.github.io/Portfolio/) for more information.
+I'm a first class Software Engineering graduate living in South East London. Find all the information about me via my [Portfolio](https://icecoolr.github.io/Portfolio/).
 
-## Skills
-- Unity with C#
-- Scala and Java
-- Agile principles and DevOps
-- GitHub 
-- Simple understanding of HTML5, JavaScript & CSS. Check out [Where Next?](https://icecoolr.github.io/Where-Next/), a university project inspiring people to travel and hosted via GitHub Pages
+## Tools & Frameworks
+- ServiceNow
+- GitHub
+- Microsoft Azure
+- Unity 
+- Gimp
+- Agile Principles
+- DevOps
+- Scrum
 
-## Interests
-- I've completed multiple runs for charity, with the biggest being the Richmond Runfest Marathon.
-- Computer building.
-- My friends and I run the [Pokémon GO Tower Bridge Discord](https://discord.com/invite/fVzzsMd).
-- Challenge me at chess on [chess.com](https://www.chess.com/member/icecoolr).
+## Languages
+- Java, Scala & C#
+- HTML, CSS & JS
+- Python
+
+## Projects
+- Take That 1st Step: [Code](https://github.com/IcecoolR/Take-That-1st-Step) & [Live](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep)
+- Daily Inspiration: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Daily-Quotes/)
+- Where Next?: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Where-Next/)
 
 ## Find me on
 - [Linkedin](https://www.linkedin.com/in/richard-woolley-63a3311b2/)
-- [Instagram](https://www.instagram.com/richardwoolley_/)
-- [Steam](https://steamcommunity.com/id/IcecoolR/)
-- Discord (IcecoolR#6648)
+- [Google Play Page](https://play.google.com/store/apps/dev?id=8741244617346173713)
+
 
 <!---
 IcecoolR/IcecoolR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
