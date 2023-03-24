@@ -1,6 +1,6 @@
 # Hi, I’m Richard ([@IcecoolR](https://github.com/IcecoolR)) 👋
 
-I'm a first class Software Engineering graduate living in South East London. Find all the information about me via my [Portfolio](https://icecoolr.github.io/Portfolio/).
+I'm a first class Software Engineering graduate living in South East London. Check out my [Portfolio](https://icecoolr.github.io/Portfolio/) for more information.
 
 ## Tools & Frameworks
 - ServiceNow
@@ -18,6 +18,7 @@ I'm a first class Software Engineering graduate living in South East London. Fin
 - Python
 
 ## Projects
+- Portfolio: [Code](https://github.com/IcecoolR/Portfolio) & [Live](https://icecoolr.github.io/Portfolio/)
 - Take That 1st Step: [Code](https://github.com/IcecoolR/Take-That-1st-Step) & [Live](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep)
 - Daily Inspiration: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Daily-Quotes/)
 - Where Next?: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Where-Next/)
