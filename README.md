@@ -21,7 +21,7 @@ I'm a first class Software Engineering graduate living in South East London. Che
 ## Projects
 - Portfolio - My personal website about me: [Code](https://github.com/IcecoolR/Portfolio) & [Live](https://icecoolr.github.io/Portfolio/)
 - Take That 1st Step - Free app on Google Play that encourages people to start setting goals and building habits: [Code](https://github.com/IcecoolR/Take-That-1st-Step) & [Live](https://play.google.com/store/apps/details?id=com.RichardWoolley.TakeThat1stStep)
-- Daily Inspiration - Website that uses an API to pull a random quote every day: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Daily-Quotes/)
+- Daily Inspiration - Website that uses an API to pull a random quote every day: [Code](https://github.com/IcecoolR/Daily-Quotes) & [Live](https://icecoolr.github.io/Daily-Inspiration/)
 - Where Next? - Website designed to inspire users to travel: [Code](https://github.com/IcecoolR/Where-Next) & [Live](https://icecoolr.github.io/Where-Next/)
 - Scala Projects - [Most Isolated](https://github.com/IcecoolR/MostIsolated) is about finding the most isolated feature inside a 2D plane. [Palindrome](https://github.com/IcecoolR/Palindrome) is a purely functional script that checks to see if some input is a palindrome.
 
