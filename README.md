@@ -26,7 +26,7 @@ I'm a first class Software Engineering graduate living in South East London. Che
 - Scala Projects - [Most Isolated](https://github.com/IcecoolR/MostIsolated) is about finding the most isolated feature inside a 2D plane. [Palindrome](https://github.com/IcecoolR/Palindrome) is a purely functional script that checks to see if some input is a palindrome.
 
 ## Find Me On
-- [Linkedin](https://www.linkedin.com/in/richard-woolley-63a3311b2/)
+- [LinkedIn](https://www.linkedin.com/in/richardwoolley1999/)
 - [Google Play Page](https://play.google.com/store/apps/dev?id=8741244617346173713)
 
 
